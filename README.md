@@ -135,17 +135,6 @@ These requirements ensure traceability and prevent accidental activation.
 
 ---
 
-## ⭐ **Next Steps**
-You can now begin populating the Treaty Database with the first MOUs:
-
-- **Generate MOU‑E0 — Expressive Layer**  
-- **Generate MOU‑S0 — Structural Layer**  
-- **Generate MOU‑SUB0 — Substrate Layer**  
-
-We proceed layer by layer, exactly as the Charter mandates.
-
----
-
 # 📜 **Provenance Footer — NDH‑Treaty‑Database README (v1.0)**
 
 ```
